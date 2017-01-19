@@ -1,0 +1,79 @@
+{
+"name": "Board",
+"children": [
+{
+   "name": "CEO",
+   "children": [
+    {
+     "name": "COO",
+     "children": [
+      {
+       "name": "The Other team",
+       "children": [
+        {"name": "With a great description", "size": 3938}
+       ]
+      }
+     ]
+   },
+   {
+    "name": "Head of Product",
+    "children": [
+     {
+      "name": "Product team",
+      "children": [
+       {"name": "And we can add more roles here", "size": 743}
+      ]
+     },
+     {
+      "name": "Design",
+      "children": [
+       {"name": "Because design is important", "size": 3416}
+      ]
+     },
+     {
+      "name": "Another role",
+      "children": [
+       {"name": "Because imagination is the limit", "size": 7074}
+      ]
+     }
+    ]
+  },
+  {
+   "name": "Capacity Team",
+   "children": [
+    {
+     "name": "Researcher",
+     "children": [
+      {"name": "Responsible for scoping research projects, coordinating research activities with other organisations and OKI projects, and to deliver the research projects", "size": 743}
+     ]
+    },
+    {
+     "name": "Communications Manager",
+     "children": [
+      {"name": "Another Awesome Description", "size": 3416}
+     ]
+    },
+    {
+     "name": "Communications officer",
+     "children": [
+      {"name": "Yet another one. ", "size": 3416}
+     ]
+    },
+    {
+     "name": "International Community Coordinator",
+     "children": [
+      {"name": "SpanningTree", "size": 3416}
+     ]
+    },
+    {
+     "name": "Franka",
+     "children": [
+      {"name": "And a long description to see how far we can go with text. Even though we added some text in the researcher description", "size": 7074}
+     ]
+    }
+   ]
+  }
+ ]
+ }
+]
+}
